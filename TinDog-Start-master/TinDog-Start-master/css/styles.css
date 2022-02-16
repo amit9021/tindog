@@ -146,3 +146,26 @@ em {
   padding: 0;
   margin: 0;
 }
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 10% 8%;
+}
+.cta-title{
+  color: white;
+  padding: 5% 2%;
+  font-size: 2.5rem;
+}
+.cta-btn{
+  margin: 1% 2%;
+}
+#footer{
+  text-align: center;
+  margin: 5%;
+  color: black;
+}
+.icon-footer{
+  margin: 2%;
+  font: 1.5rem;
+}
